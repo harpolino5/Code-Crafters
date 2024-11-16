@@ -6,6 +6,20 @@
             "username": "NoName",
             "age": 13,
             "balance": 0
-         }
+         },
+         {
+        "id":1,
+        "name":"Klein",
+        "surname":"Morttin",
+        "photo_url":"https:/...",
+        "balance":1500
+    },
+    {
+    "id":2,
+    "name":"Amon",
+    "surname":"Adam",
+    "photo_url":"https:/...",
+    "balance":1500
+    }
     ]
 }
