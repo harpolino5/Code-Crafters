@@ -1,0 +1,20 @@
+{
+    "users": [
+    {
+        "id":1,
+        "name":"Klein",
+        "surname":"Morttin",
+        "photo_url":"https:/...",
+        "balance":1500
+    }
+],
+"users": [
+{
+    "id":2,
+    "name":"Amon",
+    "surname":"Adam",
+    "photo_url":"https:/...",
+    "balance":1500
+}
+]
+}
